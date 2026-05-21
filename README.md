@@ -9,7 +9,7 @@ O aplicativo tem como objetivo ajudar no atendimento de casos leves por meio de 
 - Arthur Cantarutti
 - Bernardo Rocha
 - Gabrielly Cunha
-- Guilherme Honorato
+- Guilherme A. Honorato
 - Mariana Duarte
 - Thaís Augusta
 
